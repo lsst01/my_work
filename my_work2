@@ -1,0 +1,9 @@
+x=20
+a=15
+print("x>a")
+
+
+a=10
+b=2
+print("a/b",a/b)
+
